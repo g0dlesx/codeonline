@@ -12,6 +12,6 @@ Code Online is an online community for testing and showcasing user-created HTML,
 
 * [NextJs](https://nextjs.org/)
 * [ReactJs](https://reactjs.org/)
-* [Socket.io]
-* [Express]
-* [NodeJs]
+* [NodeJs](https://nodejs.org)
+* [Socket.io](https://socket.io)
+* [Express](https://expressjs.com)
