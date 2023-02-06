@@ -1,5 +1,5 @@
 
-# wecode (Realtime collabration web code editor)
+# wecode
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
