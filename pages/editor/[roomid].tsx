@@ -198,9 +198,9 @@ const EditorContainer: React.FC<EditorProps> = ({}) => {
       <div className="flex-1 grid grid- grid-cols-editor ">
         <div className="flex flex-col h-screen justify-between">
           <div className="flex-col">
-            <div className="flex items-center px-4 w-full h-32 ">
+            <div className="flex items-center mx-auto px-4 w-full h-32 ">
               <Image width={50} height={50} src="/logo-white.png" />
-              <h1 className="font-extrabold text-2xl">wecode</h1>
+              <h1 className="font-bold text-3xl">wecode</h1>
             </div>
             <hr />
             <div className="flex-col  my-4 w-full ">
@@ -235,7 +235,7 @@ const EditorContainer: React.FC<EditorProps> = ({}) => {
           <div className="mx-3">
             <button
               onClick={leaveRoom}
-              className="w-full rounded-xl p-3 mb-2 font-bold bg-primary text-black"
+              className="w-full rounded-xl p-3 mb-2 font-bold bg-primary text-black hover:bg-gradient-to-r from-red-400 to-orange-800"
             >
               Leave
             </button>
