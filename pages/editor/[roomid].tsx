@@ -193,14 +193,14 @@ const EditorContainer: React.FC<EditorProps> = ({}) => {
   return (
     <div className="bg-bgdark px-2 flex text-white">
       <Head>
-        <title>Editor | Code Online</title>
+        <title>Editor | wecode</title>
       </Head>
       <div className="flex-1 grid grid- grid-cols-editor ">
         <div className="flex flex-col h-screen justify-between">
-          <div className="  flex-col ">
+          <div className="flex-col">
             <div className="flex items-center px-4 w-full h-32 ">
               <Image width={50} height={50} src="/logo-white.png" />
-              <h1 className="font-extrabold text-2xl">Code Online</h1>
+              <h1 className="font-extrabold text-2xl">wecode</h1>
             </div>
             <hr />
             <div className="flex-col  my-4 w-full ">
