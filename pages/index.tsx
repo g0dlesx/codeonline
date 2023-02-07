@@ -37,12 +37,12 @@ const Home: NextPage = () => {
       </div>
 
       <footer className="fixed bottom-2">
-        Made by{""}
+        Designed by{""}
         <a
           className="text-primary ml-2 font-bold text-green-400 hover:text-red-500"
           href="https://github.com/g0dlesx/codeonline"
         >
-          {" "}
+          {""}
           Sarthak
         </a>
       </footer>
